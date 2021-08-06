@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922916773018",
+    "project_id": "noteskeeperapp-cdc8d",
+    "storage_bucket": "noteskeeperapp-cdc8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922916773018:android:e9d90adc5047c3aacd9323",
+        "android_client_info": {
+          "package_name": "com.example.noteskeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922916773018-gjdhopu4k48eburjafjbml07b0u5r4kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIMj7IUCsPYXaAgAnmaVknyo62g79T02c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922916773018-gjdhopu4k48eburjafjbml07b0u5r4kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
